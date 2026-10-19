@@ -1,13 +1,15 @@
 # S20 - Módulo 1. Actividad didáctica 2 - M1Simulación Estocástica del Juego Yahtzee mediante el Método de Montecarlo
 
-# Ingeniería de Software y Datos · IU Digital de Antioquia
-**Grupo:	25
-**Integrantes:	Jose Hilario Lopez / Dennyn Pandales
-**Facultad:	Ingeniería y Ciencias Agrícolas
-**Programa:	Ingeniería de Software y Datos
-**Asignatura:	Simulación - PREICA2602B020045
-**Catedràtico: Julian Andres Loaiza
-**Fecha de entrega	domingo 25 de Octubre
+<img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/cdbd74d8-ba8d-4fbd-b7d4-58e3257a210b" />
+
+* Ingeniería de Software y Datos · IU Digital de Antioquia 
+* Grupo:	40
+* Integrantes:	Jose Hilario Lopez / Dennyn Pandales
+* Facultad:	Ingeniería y Ciencias Agrícolas
+* Programa:	Ingeniería de Software y Datos
+* Asignatura:	Simulación - PREICA2602B020045
+* Catedràtico: Julian Andres Loaiza
+* Fecha de entrega	domingo 25 de Octubre
 
 ---
 
