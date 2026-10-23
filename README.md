@@ -2,7 +2,7 @@
 
 <img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/cdbd74d8-ba8d-4fbd-b7d4-58e3257a210b" />
 
-* Ingeniería de Software y Datos · IU Digital de Antioquia 
+* Ingeniería de Software y Datos - IU Digital de Antioquia 
 * Grupo:	40
 * Integrantes:	Jose Hilario Lopez / Dennyn Pandales
 * Facultad:	Ingeniería y Ciencias Agrícolas
